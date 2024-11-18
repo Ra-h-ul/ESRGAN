@@ -1,0 +1,64 @@
+# folder
+.vscode
+
+# file type
+*.svg
+*.pyc
+*.pth
+*.t7
+*.caffemodel
+*.mat
+*.npy
+
+
+.idea
+__pycache__/
+__MACOSX
+lightning_logs
+checkpoints
+/test_images
+/.venv
+/mygraph.png
+/myenv
+myenv/
+
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.coveragerc
+*.coverage
+*.hypothesis/
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# Python distributions
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# MacOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
